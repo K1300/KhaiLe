@@ -1,0 +1,57 @@
+---
+title: "In Class Lecture 26"
+author: "Khai Le"
+date: "3/22/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Author: Khai Le, \today
+## (1) A new git/R project
+
+* Set up an account on github if you do not have one, and create a new repository. 
+
+* In RStudio, create a new project using your git repository URL.
+Add your initials in the name so it will be different from someone else in the class (see  question 3).
+
+* Report the full path of folders and subfolders on your laptop to get to this new project folder.
+
+* Create a short .Rmd  file that plots a histogram of a normal (aka Gaussian) random sample and save this file to your project.
+
+```
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+
+* Mark your new file for staging, commit it, and then push it to your git repository.
+
+* Log back onto github now, and check that this file is indeed part of your repository. 
+
+\newpage
+## (2) Adding a new files
+* Outside of R, find  a jpg  image of Karl Frederick Gauss, and copy this to your R project directory. 
+
+* Incorporate this image into your Rmd file with a sentence explanation of who Gauss was. 
+
+* Stage, commit, and push these changes to github.
+
+* Does it make sense to also make the output pdf from your R Markdown file also part of the repository?
+
+\newpage
+## (3)  Sharing with a classmate
+
+* Get the URL of a project repository from someone else in the class, and make a copy of this project on your laptop.
+
+* If you change or add a file in this other student's project, what happens if you try to "push" the file back to the git hub repository?
+
+* Ask the student to give you permissions in git hub to write to the repository. See the instructions in the lecture 26 pdf. With this permission, again try to push your changes. 
+
+
+
+
+
+

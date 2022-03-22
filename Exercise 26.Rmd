@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Set up an account on github if you do not have one, and create a new repository. 
 
 * In RStudio, create a new project using your git repository URL.
-Add your initials in the name so it will be different from someone else in the class (see  question 3).
+Add your initials in the name so it will be different from someone else in the class (see question 3).
 
 * Report the full path of folders and subfolders on your laptop to get to this new project folder.
 
@@ -23,13 +23,15 @@ Add your initials in the name so it will be different from someone else in the c
 
 ```
 # sample of size 100
-Y<- rnorm( 100)
-hist( Y)
+Y <- rnorm( 100)
+hist(Y)
 ```
 
 * Mark your new file for staging, commit it, and then push it to your git repository.
 
 * Log back onto github now, and check that this file is indeed part of your repository. 
+
+The path for this project folder is: "/Users/khaile/Desktop/Sophomore Year (2021-2022)/2nd Semester/STA 2300/Lectures/Lecture 16 (26)/KhaiLe"
 
 \newpage
 ## (2) Adding a new files

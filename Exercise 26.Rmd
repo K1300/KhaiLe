@@ -54,9 +54,3 @@ It does make sense to also make the output pdf from your R Markdown file also pa
 * If you change or add a file in this other student's project, what happens if you try to "push" the file back to the git hub repository?
 
 * Ask the student to give you permissions in git hub to write to the repository. See the instructions in the lecture 26 pdf. With this permission, again try to push your changes. 
-
-
-
-
-
-

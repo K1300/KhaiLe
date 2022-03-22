@@ -1,0 +1,21 @@
+---
+title: "Normal Random Sample"
+author: "Khai Le"
+date: "3/22/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Normal Random Sample
+```{r}
+Y <- rnorm(100)
+hist(Y)
+```
+
+\newpage
+![Carl Friedrich Gauss](/Users/khaile/Desktop/Sophomore Year (2021-2022)/2nd Semester/STA 2300/Lectures/Lecture 16 (26)/KhaiLe/Carl Friedrich Gauss.jpg){width=70%} 
+
+Carl Friedrich Gauss was a German mathematician, generally regarded as one of the greatest mathematicians of all time for his contributions to number theory, geometry, probability theory, geodesy, planetary astronomy, the theory of functions, and potential theory (including electromagnetism).

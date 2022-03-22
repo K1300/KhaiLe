@@ -33,15 +33,17 @@ hist(Y)
 
 The path for this project folder is: "/Users/khaile/Desktop/Sophomore Year (2021-2022)/2nd Semester/STA 2300/Lectures/Lecture 16 (26)/KhaiLe"
 
+
 \newpage
 ## (2) Adding a new files
-* Outside of R, find  a jpg  image of Karl Frederick Gauss, and copy this to your R project directory. 
+* Outside of R, find  a jpg image of Karl Frederick Gauss, and copy this to your R project directory. 
 
 * Incorporate this image into your Rmd file with a sentence explanation of who Gauss was. 
 
 * Stage, commit, and push these changes to github.
 
 * Does it make sense to also make the output pdf from your R Markdown file also part of the repository?
+
 
 \newpage
 ## (3)  Sharing with a classmate

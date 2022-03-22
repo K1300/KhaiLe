@@ -44,6 +44,7 @@ The path for this project folder is: "/Users/khaile/Desktop/Sophomore Year (2021
 
 * Does it make sense to also make the output pdf from your R Markdown file also part of the repository?
 
+It does make sense to also make the output pdf from your R Markdown file also part of the repository
 
 \newpage
 ## (3)  Sharing with a classmate
